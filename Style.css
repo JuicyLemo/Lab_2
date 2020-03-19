@@ -1,0 +1,52 @@
+.col-three {
+	width: 33.3333333333%;
+    float: left;
+    text-align: center;
+	}
+.menu {
+	float: right;
+	}
+.logo {
+	display: block;
+	float: left;
+	padding: 20px;
+	}
+.container {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 960px;
+	}
+footer {
+	margin-top: 10px;
+	height: 70px;
+	line-height: 30px;
+	}
+.text {
+    text-align:  center;
+	}
+.back {
+	padding-left: 30px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	margin-right: 320px;
+	background: #bce3f5;
+	}
+.main_ground {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	background: #dae9f0;
+	margin-left: 100px;
+	margin-right: 100px;
+	}
+.body_text {
+	font-size: 14pt;
+	}
+.quotes {
+	font-weight: 100;
+	font-size: 16pt;
+	}
+.signatures{
+	font-size: 12pt;
+	}
+.move{
+	padding-left: 240px;
+	}
