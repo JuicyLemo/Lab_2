@@ -1,25 +1,25 @@
 .col-three {
-	width: 33.3333333333%;
-    float: left;
-    text-align: center;
+	width: 33.3333333333%; /* изменение ширины объекта */
+    float: left; /* выравнивает текст по правой или левой стороене, при этом остальные элементы будут обтекать данный объект*/
+    text-align: center; /* выравнивание текста по центру */
 	}
 .menu {
 	float: right;
 	}
 .logo {
-	display: block;
-	float: left;
-	padding: 20px;
+	display: block; /* показывает как тот или иной документ должен быть отображен в документе */
+	float: left; 
+	padding: 20px; /* устанавливает отступы с внутренней стороны рамки */
 	}
 .container {
-	margin: 0 auto;
-	width: 100%;
-	max-width: 960px;
+	margin: 0 auto; /* устанавливает величину отступа от каждого края элемента */
+	width: 100%; 
+	max-width: 960px; /* максимальный лимит ширины */
 	}
 footer {
 	margin-top: 10px;
-	height: 70px;
-	line-height: 30px;
+	height: 70px; /* изменение высоты объекта */
+	line-height: 30px; /* изменение межстрочного интервала */
 	}
 .text {
     text-align:  center;
@@ -29,19 +29,19 @@ footer {
 	padding-bottom: 20px;
 	padding-top: 20px;
 	margin-right: 320px;
-	background: #bce3f5;
+	background: #bce3f5; /* устанавливает цвет фона объекта */
 	}
 .main_ground {
-	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-family: Geneva, Arial, Helvetica, sans-serif; /* устанавливает семейство шрифта */
 	background: #dae9f0;
 	margin-left: 100px;
 	margin-right: 100px;
 	}
 .body_text {
-	font-size: 14pt;
+	font-size: 14pt; /* определяет размер шрифта элемента */
 	}
 .quotes {
-	font-weight: 100;
+	font-weight: 100; /* устанавливает насыщенность шрифта */
 	font-size: 16pt;
 	}
 .signatures{
