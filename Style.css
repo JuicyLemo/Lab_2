@@ -34,8 +34,9 @@ footer {
 .main_ground {
 	font-family: Geneva, Arial, Helvetica, sans-serif; /* устанавливает семейство шрифта */
 	background: #dae9f0;
-	margin-left: 100px;
-	margin-right: 100px;
+	height: 95%;
+	width: 85%;
+	margin: auto;
 	}
 .body_text {
 	font-size: 14pt; /* определяет размер шрифта элемента */
